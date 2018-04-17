@@ -1,0 +1,13 @@
+*.pyc
+config
+*.nja
+__pycache__
+settings.py
+.idea/
+*.mp3
+log.txt
+database.db
+docs/make.bat
+
+# private plugins
+*.priv.py
